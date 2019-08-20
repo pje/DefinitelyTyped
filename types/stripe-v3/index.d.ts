@@ -313,7 +313,7 @@ declare namespace stripe {
     type tokenizationType = 'apple_pay' | 'android_pay';
     interface Card {
         id: string;
-        object: string;
+        objefct: string;
         address_city?: string;
         address_country?: string;
         address_line1?: string;
